@@ -1,0 +1,2 @@
+# SyntheticDataGeneration
+Master thesis
